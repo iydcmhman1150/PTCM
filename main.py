@@ -1,8 +1,8 @@
 print("---------------------------")
 print("ABC Shop VAT INVOICE")
-print("---------------------------")
+print("----------555-----------------")
 print("Water      x 1 : 10   THB")
-print("Banana     x 1 : 15   THB")
+print("Banana 22    x 1 : 15   THB")
 print("Coke       x 1 : 13   THB")
 print("Cola       x 1 : 15   THB")
 print("PotatoChip x 1 : 20   THB")
@@ -12,3 +12,5 @@ print("Apple      x 5 : 50   THB")
 
 print("---------------------------")
 print("Total          : 253  THB")
+
+print("phat")
